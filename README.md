@@ -26,4 +26,5 @@ Une mini-application web qui affiche une sélection de films sous forme de carte
 1. **Cloner le dépôt :**
 ```bash
 git clone https://github.com/ton-username/mini-cinema-app.git
-    le lien de mon dépôt GitHub et l'URL de l'application déployée.                                                            https://fareslafris.github.io/checkIA4/
+    #le lien de mon dépôt GitHub et l'URL de l'application déployée.                                                            https://.github.io/checkIA4/
+fareslafris.github.io/checkIA4/
